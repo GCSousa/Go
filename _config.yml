@@ -4,7 +4,7 @@ remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 # URL do seu GitHub Pages (ajuste com seu usuário e repositório)
 url: "https://GCSousa.github.io"
-baseurl: "/Go---b-sico"
+baseurl: "/Go"
 
 # Habilita busca
 search_enabled: true

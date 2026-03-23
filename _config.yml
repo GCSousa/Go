@@ -1,6 +1,6 @@
 title: "Guia de Go (Golang)"
 description: "Guia introdutório de Go — do zero até funções, arrays e laços."
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.0
 
 # URL do seu GitHub Pages (ajuste com seu usuário e repositório)
 url: "https://GCSousa.github.io"
@@ -23,4 +23,5 @@ footer_content: "Guia de Go &mdash; Conteúdo educacional"
 
 # Plugins padrão do GitHub Pages
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
